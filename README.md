@@ -1,2 +1,2 @@
 # dogavenger
-Dog Avenger ($DogAvenger) is a community-driven digital asset on BNB Smart Chain Operating through a community takeover(CTO) model. The project is revolving towards practical utility through developing an Africa Verified Network that can help businesses build trust, connect and access digital opportunities across Africa.
+Dog Avenger ($DogAvenger) is a community-driven digital asset on BNB Smart Chain Operating through a community takeover(CTO) model. The project is revolving towards practical utility through developing an Africa Verified Network that can help businesses, web3 communities, builders, SMEs and Entrepreneurs build trust, connect and access digital opportunities across Africa.
